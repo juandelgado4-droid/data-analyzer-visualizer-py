@@ -1,0 +1,4 @@
+# Core package runs on Python 3.8+ Standard Library (zero mandatory external dependencies)
+# Optional libraries for extended functionality:
+# pandas>=2.0.0
+# matplotlib>=3.7.0
